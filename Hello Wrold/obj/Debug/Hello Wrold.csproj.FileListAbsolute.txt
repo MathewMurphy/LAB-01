@@ -1,0 +1,7 @@
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\bin\Debug\Hello Wrold.exe.config
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\bin\Debug\Hello Wrold.exe
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\bin\Debug\Hello Wrold.pdb
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\obj\Debug\Hello Wrold.csprojAssemblyReference.cache
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\obj\Debug\Hello Wrold.csproj.CoreCompileInputs.cache
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\obj\Debug\Hello Wrold.exe
+c:\users\matthew murphy\source\repos\Hello Wrold\Hello Wrold\obj\Debug\Hello Wrold.pdb
